@@ -31,10 +31,10 @@ pub const CONFIG: Config = Config {
     pinned: &[
         PinnedRepo { name: "flexinix", topic: "Nixos Configuration Flakes" },
         PinnedRepo { name: "racooonfig", topic: "Linux Dotfiles" },
-        PinnedRepo { name: "nixdev", topic: "Nix Development Templates" },
-        PinnedRepo { name: "termux", topic: "termux config" },
-        PinnedRepo { name: "tquilla", topic: "discord bot" },
-        PinnedRepo { name: "gemini-pocket", topic: "project exam" },
+        PinnedRepo { name: "template.nix", topic: "Nix Development Templates" },
+        PinnedRepo { name: "fastfetch.md", topic: "termux config" },
+        PinnedRepo { name: "tquilla.is-a.bot", topic: "discord bot" },
+        PinnedRepo { name: "pocket-ai.gemini", topic: "project exam" },
     ],
 
     // Shown in the "Core Stack (Detected)" chip row on the card.
